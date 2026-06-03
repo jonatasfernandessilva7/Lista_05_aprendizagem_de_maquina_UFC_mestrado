@@ -1,0 +1,2 @@
+# Lista_05_aprendizagem_de_maquina_UFC_mestrado
+Lista_05_aprendizagem_de_maquina_UFC_mestrado
